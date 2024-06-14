@@ -1,2 +1,2 @@
 # Minecraft-Server
-Minecraft服务器
+基喵Minecraft服务器
